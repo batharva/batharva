@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Robotics.<br>👯 I’m looking to collaborate on ROS-2.<br>🤝 I’m looking for help with Machine Learning.<br>🌱 I’m currently learning Humble, OpenCv , ML.<br>💬 Ask me about anything secret.<br>
+🔭 I’m currently working on Robotics.<br>👯 I’m looking to collaborate on ROS-2.<br>🤝 I’m looking for help with Machine Learning, OpenCv.<br>🌱 I’m currently learning ROS2 ADV, ROS_Control , Nav2.<br>💬 Ask me about anything secret.<br>
 
 
 ## 🌐 Socials:
